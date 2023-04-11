@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681240950 source:c:\users\dante\desktop\escritorio\c\vectores\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"vectores.h"
+	<math.h>
+
+1681240951 c:\users\dante\desktop\escritorio\c\vectores\vectores.h
+
+1681241102 source:c:\users\dante\desktop\escritorio\c\vectores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"vectores.h"
+
